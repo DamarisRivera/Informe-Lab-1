@@ -4,12 +4,14 @@
 
 Objetivo General:
 
- * L
+ * Desarrollar y analizar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes, utilizando un simulador virtual que nos ayuda a hacer más didactica la práctica. 
  
  Objetivos Especificos:
  
  * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
- *
+ * Utilizar un simulador donde se represente un circuito y nos permita tomar distintas mediciones.
+ * Realizar cálculos de errores de mediciones y comparar los valores.
+ * Analizar los resultados obtenidos en cada una de las tablas realizadas.
  
  2.MARCO TEÓROCO
  
@@ -28,4 +30,17 @@ Objetivo General:
  
  * Medicion de corriente
  ![image](https://user-images.githubusercontent.com/105617383/169173479-a6f78eff-05a3-483b-a3a4-4e4e7d83c5e9.png)
+
+
+
+
+
+
+
+3.CONCLUSIONES
+
+ * La Ley de Kirchhoff..
+ * El simulador utilizado para la toma de mediciones simuladas fue didactico y fácil de usar para la elaboración del laboratorio.
+ * Los cálculos obtenidos nos permite concluir que..
+ * 
 
