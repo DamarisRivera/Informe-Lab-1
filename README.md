@@ -17,6 +17,7 @@ Objetivo General:
 
  ![image](https://user-images.githubusercontent.com/105617383/169164168-4050b1e3-9dbc-4f30-b9b0-bca4fb782a24.png)
  ![image](https://user-images.githubusercontent.com/105617383/169568229-bb4c4dca-ef8f-41fb-b64b-8b2f9d8b5ee2.png)
+ 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/105617383/169882072-528990e1-378a-42c5-b9b6-76fd96bbdf0d.png)
