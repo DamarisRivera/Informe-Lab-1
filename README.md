@@ -26,6 +26,13 @@ En el siguiente cicuito resistivo mixto el primer paso va ser hallar la corrient
 
 ![image](https://user-images.githubusercontent.com/105617383/169888711-eb382b33-7ff9-4bcf-8f81-f717a5fa3672.png)
 
+![image](https://user-images.githubusercontent.com/105617383/169920560-81a7d6db-7246-47cd-a559-56756e98ef84.png)
+
+Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
+
+![image](https://user-images.githubusercontent.com/105617383/169922402-b997d139-d9ca-4a13-841f-51f602bc3826.png)
+
+
 4.RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
 
 1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
