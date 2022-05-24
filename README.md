@@ -54,11 +54,15 @@ Tabla 1.2. Verificación de la LVK.
 
 ![image](https://user-images.githubusercontent.com/105671763/170137103-bc36f13e-066e-4809-90a1-d7d9cdb98991.png)
 
+Observando los resultados obtenidos, se concluye que, La sumatorio de todos los voltajes dentro de cada trayectoria es igual a cero, existiendo una variación dentro de la trayectoria 1 y 3, ya que existe una diferencia de 0.01 decimal en el valor calculado de VR5. Sin embargo, esto solo es un pequeño porcentaje de error que no afecta a la comprobación de la Ley de Volatjes de kirchhoff.
+
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
 Tabla 1.3. Verificación de la LCK.
 
 ![image](https://user-images.githubusercontent.com/105671763/170140225-ad096ea6-a782-4df3-9d58-064db19c75a3.png)
+
+La tabla nos muestra que la sumatoria de Corrientes que entran es igual a la sumatoria de Corrientes que salen, que de igual forma con la tabla anterior, existe una diferencia mínima que es insignificante, comprobando de esta manera la Ley de Corrientes de kirchhoff.
 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
