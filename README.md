@@ -26,11 +26,11 @@ En el siguiente cicuito resistivo mixto el primer paso va ser hallar la corrient
 
 ![image](https://user-images.githubusercontent.com/105617383/169888711-eb382b33-7ff9-4bcf-8f81-f717a5fa3672.png)
 
-![image](https://user-images.githubusercontent.com/105617383/169923618-c8b45c10-a5a6-4685-9743-05eadff9034c.png)
+![image](https://user-images.githubusercontent.com/105617383/170149929-4fff9abb-77d8-4796-9f86-a5c323d551f6.png)
 
 Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
 
-![image](https://user-images.githubusercontent.com/105617383/169923638-b380860e-decc-40a9-b1be-20cd522faf3c.png)
+![image](https://user-images.githubusercontent.com/105617383/170149981-37b65977-1105-4423-bfde-59ee270a37bd.png)
 
 4.RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
 
