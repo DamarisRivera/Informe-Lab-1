@@ -68,13 +68,13 @@ Tabla 1.4. Calculo de error.
 
 De acuerdo a los valores calculados y a los valores medidos se realiza un cálculo de porcentaje de error utilizando la fórmula de % error = ((valor teórico-valor medido)/valor teórico)* 100, aplicando esta fórmula, observamos que existe una variación mínima dentro de cuatro valores obtenidos, esto se produce por que no se tomo en cuenta todos los valores décimales de los calculos realizados. Por lo tanto, se concluye que, el error es muy pequeño por lo que casi no existe, permitiendonos comprobar las Leyes de Kirchhoff.
 
-3.CONCLUSIONES
+5.CONCLUSIONES
 
  * La Ley de Voltajes de Kirchhoff dice que la sumatoria de las fuentes de voltaje es igual a cero, mientras que, la ley de Corrientes de Kirchhoff nos dice que la sumatoria de corrientes que entran son iguales a la sumatoria de corrientes que salen. Ambas leyes se pudieron comprobar al calcular los datos de las tablas realizadas.
  * El simulador utilizado para la toma de mediciones simuladas fue didáctico y fácil de usar para la elaboración del laboratorio.
  * Los cálculos obtenidos nos permite concluir que existe un margen de error menor al 1 %, esto debió ocurrir porque no se tomó todos los decimales de los valores obtenidos, creando esa variación de porcentaje.
  * De acuerdo a las tablas realizadas se observa una comprobación de las leyes de Kirchhoff, y una variación de valores no mayor del 1 %, siendo un porcentaje de error mínimo.
 
-4.Bibliografía
+6.Bibliografía
 
  Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
