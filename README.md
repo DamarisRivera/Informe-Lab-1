@@ -71,8 +71,8 @@ Tabla 1.4. Calculo de error.
 
 3.CONCLUSIONES
 
- * La Ley de Kirchhoff..
+ * La Ley de Volatjes de Kirchhoff dice que la sumatoria de las fuentes de voltaje es igual a cero, mientras que, la ley de Corrientes de Kirchhoff nos dice que la sumatoria de corrientes que entran son iguales a la sumatoria de corrientes que salen. Ambas leyes se pudo comprobar al calcular los datos de las tablas realizadas.
  * El simulador utilizado para la toma de mediciones simuladas fue didactico y fácil de usar para la elaboración del laboratorio.
- * Los cálculos obtenidos nos permite concluir que..
- * 
+ * Los cálculos obtenidos nos permite concluir que existe un margen de error menor al 1 %, esto debio ocurrir porque no se tomo todos los decimales de loos valores obtenidos, creando esa variación de porcentaje.
+ * De acuerdo a las tablas realizadas se observa una comprobación de las leyes de Kirchhoff, y una variación de valores no mayor del 1 /, esto  nos indica que el margen de error es mínimo.
 
