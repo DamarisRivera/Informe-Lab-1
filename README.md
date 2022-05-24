@@ -75,3 +75,6 @@ De acuerdo a los valores calculados y a los valores medidos se realiza un cálcu
  * Los cálculos obtenidos nos permite concluir que existe un margen de error menor al 1 %, esto debió ocurrir porque no se tomó todos los decimales de los valores obtenidos, creando esa variación de porcentaje.
  * De acuerdo a las tablas realizadas se observa una comprobación de las leyes de Kirchhoff, y una variación de valores no mayor del 1 %, siendo un porcentaje de error mínimo.
 
+4.Bibliografía
+
+ Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
