@@ -42,7 +42,9 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 ![image](https://user-images.githubusercontent.com/105671763/169922953-a5b23b4d-8cf9-4d1b-ab55-79901eede412.png)
 
+1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
+Tabla 1.2. Verificación de la LVK.
 
 
 
