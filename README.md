@@ -64,6 +64,8 @@ Tabla 1.3. Verificación de la LCK.
 
 Calcular errores de las mediciones y comentar los resultados.
 
+Tabla 1.4. Calculo de error.
+
 ![image](https://user-images.githubusercontent.com/105671763/170143378-9e930c0c-4456-46bc-8d62-24533482d641.png)
 
 
