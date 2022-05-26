@@ -13,7 +13,7 @@ Objetivo General:
  * Realizar cálculos de errores de mediciones y comparar los valores.
  * Analizar los resultados obtenidos en cada una de las tablas realizadas.
  
- 2.MARCO TEÓROCO
+ 2.MARCO TEÓRiCO
 
  ![image](https://user-images.githubusercontent.com/105617383/169164168-4050b1e3-9dbc-4f30-b9b0-bca4fb782a24.png)
  ![image](https://user-images.githubusercontent.com/105617383/169568229-bb4c4dca-ef8f-41fb-b64b-8b2f9d8b5ee2.png)
