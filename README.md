@@ -24,8 +24,6 @@ Objetivo General:
 
 En el siguiente cicuito resistivo mixto el primer paso va ser hallar la corriente uno y dos.
 
-![image](https://user-images.githubusercontent.com/105617383/169888711-eb382b33-7ff9-4bcf-8f81-f717a5fa3672.png)
-
 ![image](https://user-images.githubusercontent.com/105617383/170149929-4fff9abb-77d8-4796-9f86-a5c323d551f6.png)
 
 Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
