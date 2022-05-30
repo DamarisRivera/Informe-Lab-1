@@ -24,11 +24,12 @@ Objetivo General:
 
 En el siguiente cicuito resistivo mixto el primer paso va ser hallar la corriente uno y dos.
 
-![image](https://user-images.githubusercontent.com/105617383/170149929-4fff9abb-77d8-4796-9f86-a5c323d551f6.png)
+![image](https://user-images.githubusercontent.com/105617383/171067142-ba4d78f7-9d38-4cb7-8321-a2e65cf28194.png)
+
 
 Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
 
-![image](https://user-images.githubusercontent.com/105617383/170149981-37b65977-1105-4423-bfde-59ee270a37bd.png)
+![image](https://user-images.githubusercontent.com/105617383/171067794-f3edcc3b-7fe5-43b9-8349-38a94a09709f.png)
 
 4.RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
 
@@ -40,7 +41,8 @@ Despues de hallar la corriente uno y la corriente dos se va a encontrar los volt
  
  * Medicion de corriente
  
- ![image](https://user-images.githubusercontent.com/105617383/169173479-a6f78eff-05a3-483b-a3a4-4e4e7d83c5e9.png)
+ ![image](https://user-images.githubusercontent.com/105617383/171066253-8f5242b3-8725-4a0e-9925-829be90100f9.png)
+
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
